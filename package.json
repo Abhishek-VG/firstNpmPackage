@@ -1,0 +1,25 @@
+{
+  "name": "raffy-vg",
+  "version": "1.0.0",
+  "description": "this is the test project for learning the hoisting of node packages in npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishek-VG/firstNpmPackage.git"
+  },
+  "keywords": [
+    "abhishek",
+    "vg",
+    "1st",
+    "repo"
+  ],
+  "author": "Abhishek VG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishek-VG/firstNpmPackage/issues"
+  },
+  "homepage": "https://github.com/Abhishek-VG/firstNpmPackage#readme"
+}
